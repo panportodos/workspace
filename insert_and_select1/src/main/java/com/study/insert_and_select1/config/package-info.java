@@ -1,0 +1,1 @@
+package com.study.insert_and_select1.config;
